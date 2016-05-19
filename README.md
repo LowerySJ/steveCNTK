@@ -1,3 +1,6 @@
+This repository is a clone of Microsoft's CNTK. I (Steve) am just playing around with the source code and, since I'm still learning Git and software development, I wanted to create a separate repository, rather than branch off of and submit commits to the real CNTK project.
+
+
 # CNTK
 
 ## Latest news
